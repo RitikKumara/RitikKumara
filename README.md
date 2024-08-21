@@ -1,4 +1,4 @@
-![logo](https://github.com/RitikKumara/RitikKumara/blob/main/anshu.png)
+![logo](https://github.com/RitikKumara/RitikKumara/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
