@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikKumara&label=Profile%20views&color=0e75b6&style=flat" alt="RitikKumara" /> </p>
 
 - 👨‍💻 All of my projects are available at :
-1. **[Geolocation]**: [It is like a phishing website which is gets victim's current location and upload to our Sever https://anshlocation.netlify.app/]
+1. **[Geolocation]**: [It is like a phishing website which is gets victim's current location and upload to our Sever https://anshlocation.netlify.app/ :> 20% contribution]
 
-2. **[Background Remover]**: [Bascialy it is a website where if you upload an image then it remove the background of your image and you can download your photo as well. https://anshremove.onrender.com]
+2. **[Background Remover]**: [Bascialy it is a website where if you upload an image then it remove the background of your image and you can download your photo as well. https://anshremove.onrender.com :>30% contributionfor frontend.]
 
 - ⚡ Fun fact **I am funny😅**
 
